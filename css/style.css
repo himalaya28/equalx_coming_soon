@@ -66,6 +66,7 @@ body {
   padding: 0px;
   overflow-x: hidden;
   z-index: 0;
+  margin: 0;
 }
 
 .body_wrapper {
@@ -11568,7 +11569,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
  
 }
 .saasland_container .saasland_col_content .saasland_bottom h3{
-  font-size: 28px;
+  font-size: 26px;
   color: #747d99;
 }
 .saasland_container .saasland_col_content .saasland_bottom a {
